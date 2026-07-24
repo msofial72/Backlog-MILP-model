@@ -1,6 +1,6 @@
 """
 Field Technician Allocation System - MILP Implementation
-Based on IEEE Access article: Mixed-Integer Linear Programming Model 
+Mixed-Integer Linear Programming Model 
 for Reducing the Backlog of Service Orders at Electric Power Utilities
 
 Implemented Policies:
@@ -9,7 +9,7 @@ Implemented Policies:
 3. (s,S) - Continuous Review Policy
 4. Dynamic Bi-phase Backlog - MILP (Equations 1-30 from the article)
 
-Author: Adapted from original article
+Authors: Delgadillo, Garcia, Rodrigues, Castro, Silva
 Date: 2026-02-18
 """
 
